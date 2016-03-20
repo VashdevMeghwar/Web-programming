@@ -1,0 +1,6 @@
+c:\users\vashdev heerani\documents\visual studio 2012\Projects\HMS\HMS\bin\Debug\HMS.exe.config
+C:\Users\Vashdev Heerani\documents\visual studio 2012\Projects\HMS\HMS\obj\Debug\HMS.csprojResolveAssemblyReference.cache
+C:\Users\Vashdev Heerani\documents\visual studio 2012\Projects\HMS\HMS\bin\Debug\HMS.exe
+C:\Users\Vashdev Heerani\documents\visual studio 2012\Projects\HMS\HMS\bin\Debug\HMS.pdb
+C:\Users\Vashdev Heerani\documents\visual studio 2012\Projects\HMS\HMS\obj\Debug\HMS.exe
+C:\Users\Vashdev Heerani\documents\visual studio 2012\Projects\HMS\HMS\obj\Debug\HMS.pdb
